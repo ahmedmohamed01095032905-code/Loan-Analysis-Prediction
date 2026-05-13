@@ -33,7 +33,6 @@ https://drive.google.com/drive/folders/166gl_x1eEBkADa_XH4_AiZc1aXQsjGLe?usp=sha
 ## Task 4 — Data Visualization
 - Count plots
 - Histograms
-- Pie charts
 - Correlation heatmaps
 
 ## Task 5 — Predictive Modeling
